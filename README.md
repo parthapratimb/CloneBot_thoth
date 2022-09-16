@@ -48,7 +48,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 https://www.heroku.com/deploy
 
-[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](Heroku_Deployment.md)
+[![Deploy]Heroku_Deployment.md
 
 
 
